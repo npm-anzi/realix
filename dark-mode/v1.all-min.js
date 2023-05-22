@@ -1,6 +1,6 @@
 /*
- Copyright (C) Federico Zivolo 2017
- Distributed under the MIT License (license terms are at http://opensource.org/licenses/MIT).
+ Copyright (C) Realix Dark Mode Js Aan Fauzi 2017
+ Distributed under the MIT License (license terms are at https://github.com/npm-anzi/realix/blob/main/LICENSE).
  */
 ! function (e, t) {
     "use strict";
