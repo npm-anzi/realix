@@ -1,0 +1,18 @@
+realix-mode{color:var(--realixcss-text-color)}
+body.dark{background-color:#121213;color:var(--realixcss-text-color)}
+body.dark .masthead,body.dark .footer{background-color:#121212}
+body.dark img{-webkit-filter:brightness(70%);filter:brightness(70%)}
+.nav ul{list-style:none;padding:0;margin:0}
+body.dark realix-mode{color:var(--realixcss-text-color)}
+body.dark realix-mode:hover{background:#121213;box-shadow:4px 4px 8px #19191c,-4px -4px 8px #080809!important}
+.dark-realix-mode i{-webkit-transform:rotate(35deg);transform:rotate(35deg);margin-left:0.3rem}
+.realix-dark-mode{text-align:center}
+body.dark .Profile .profile-img{box-shadow:4px 4px 8px #080809,-4px -4px 8px #19191c!important}
+body.dark a:hover{box-shadow:4px 4px 8px #080809,-4px -4px 8px #19191c!important}
+body.dark .links{box-shadow:4px 4px 8px #080809,-4px -4px 8px #19191c!important}
+body.dark .links:hover{box-shadow:4px 4px 8px #19191c,-4px -4px 8px #080809!important;background:#121213}
+body.dark .Profile .widget-content{text-shadow:2px 2px 4px #121213,-2px -2px 4px #706f6f}
+svg.realix-icon-dark{padding:0.555rem;box-shadow:4px 4px 8px #e2e6fc,-4px -4px 8px #fff;border-radius:50%}
+svg.realix-icon-dark:hover{padding:0.555rem;box-shadow:4px 4px 8px #fff,-4px -4px 8px #e2e6fc;border-radius:50%}
+svg.realix-icon-light{padding:0.555rem;box-shadow:4px 4px 8px #080809,-4px -4px 8px #19191c!important;border-radius:50%}
+svg.realix-icon-light:hover{padding:0.555rem;box-shadow:4px 4px 8px #19191c,-4px -4px 8px #080809!important;border-radius:50%}
